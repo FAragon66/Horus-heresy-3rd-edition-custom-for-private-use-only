@@ -1,6 +1,8 @@
 Horus Heresy 3rd Edition
 ==================
 
+This is the latest copy I could get my hands on,so there will probably be no edits from here on now
+
 [![Open bugs](https://img.shields.io/github/issues/BSData/horus-heresy-3rd-edition/bug.svg?style=flat-square&label=bugs)](https://github.com/BSData/horus-heresy-3rd-edition/issues?q=is%3Aissue+is%3Aopen+label%3Abug)
 [![Contributors](https://img.shields.io/github/contributors/BSData/horus-heresy-3rd-edition.svg?style=flat-square)](https://github.com/BSData/horus-heresy-3rd-edition/graphs/contributors)
 [![Commit activity the past year](https://img.shields.io/github/commit-activity/y/BSData/horus-heresy-3rd-edition.svg?style=flat-square)](https://github.com/BSData/horus-heresy-3rd-edition/pulse/monthly)
